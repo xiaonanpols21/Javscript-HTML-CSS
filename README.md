@@ -1,2 +1,2 @@
-# Javscript-HTML-CSS
-Hierbij heb ik Javascript toegevoegd aan een compleet HTML CSS onepage
+# HTML-CSS-JS-website
+Dit is een cursus waarbij ik Javascript toevoegde aan een compleet HTML CSS onepage.
